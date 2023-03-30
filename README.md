@@ -9,7 +9,6 @@
 - 💬 Ask me about Frontend React.js.
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I am funny sometimes.
--->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maryam-hafeez-523730261/) 
@@ -22,7 +21,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamHafeez786&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MaryamHafeez786&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MaryamHafeez786&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
+
 
 ---
 
