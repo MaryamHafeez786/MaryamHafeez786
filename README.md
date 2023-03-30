@@ -1,10 +1,7 @@
 ### Hi there, I'm Maryam Hafeez 👋
 [![](https://visitcount.itsvg.in/api?id=MaryamHafeez786&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!--
-**MaryamHafeez786/MaryamHafeez786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# About Me
 
 - 🔭 I’m currently working on Frontend React.js Projects.
 - 🌱 I’m currently learning React Native.
